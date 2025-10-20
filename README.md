@@ -1,4 +1,4 @@
-# Advanced C++ Auto Vectorizer / Loop Analyzer Clang Plugin
+# C++ Auto Vectorizer / Loop Analyzer Clang Plugin
 
 ## Overview
 
